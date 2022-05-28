@@ -1,0 +1,17 @@
+{
+    "nombre" : " Mi Primer PWA " ,
+    "nombre_corto" : " pwa " ,
+    "tema_color" : " #ffe08a " ,
+    " color_de_fondo" : " #ffe08a " ,
+    "pantalla" : " independiente " ,
+    "orientación" : " retrato " ,
+    "alcance" : " ./ " ,
+    "url_inicio" : " ./ " ,
+    "iconos" : [
+        {
+            "origen" : "./img/icono_busqueda.png" ,
+            "tipo" : " imagen/png " ,
+            "tamaños" : " 512x512 "
+        }
+    ]
+}
